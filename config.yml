@@ -1,0 +1,174 @@
+economy:
+  roles:
+    jail: 1456375593561227417
+    vacationjail: 1466594266355597585
+    lottery: 1456343494280089600
+
+  channels:
+    lottery: 1456343339002626088
+
+  currency:
+    xp_per_quid: 25
+    quid_emoji: "<:quid:1407074119601618946>"
+    evil_quid_emoji: "<:evilquid:1500270014836768859>"
+
+  jail:
+    enabled: true
+    days: 3
+
+  lottery:
+    enabled: true
+    ticket_price: 50
+    days: 2
+
+xp:
+  min_xp: 8
+  max_xp: 15
+
+  level_ups_channel: 1402304757036748933
+
+  last_emoji: "<:diamondvlad:1402318150028234752>"
+
+  level_rewards:
+    - level: 10
+      emoji: "<:vlad:1402318168097165352>"
+      role: 1402305358835486830
+
+    - level: 25
+      emoji: "<:bronzevlad:1402318164964151346>"
+      role: 1402306996295696454
+
+    - level: 50
+      emoji: "<:silvervlad:1402318161461907597>"
+      role: 1402307033444913192
+
+    - level: 100
+      emoji: "<:goldvlad:1402318157552685159>"
+      role: 1402307090856284250
+
+    - level: 150
+      emoji: "<:diamondvlad:1402318150028234752>"
+      role: 1402307122922000576
+
+responses:
+  answers:
+    - "dave where are you"
+    - "WHAT are you saying bro"
+    - "Wait what?"
+    - "yandex"
+    - "putin"
+    - "xi jinping zedong pol pot threesome"
+    - "Well pancake"
+    - "My translator is acting up"
+    - "My translator"
+    - "I am vald"
+    - "aynchencha"
+    - "in sense?"
+
+  who:
+    - "vlad"
+    - "vladimir pudding"
+    - "kys"
+    - "Wait what?"
+    - "WHAT are you saying bro"
+    - "idk who that is"
+    - "jonas troller? whos that?"
+    - "definitely vlad"
+    - "i am vladbot"
+    - "confirmation"
+    - "dash"
+    - "dave knows"
+
+  what:
+    - "no"
+    - "yes"
+    - "NAHHHHH"
+    - "HELL YEAAH"
+    - "who knows"
+    - "WHAT are you saying bro"
+    - "i know but i wont tell you hohoho"
+    - "follow me on newgrounds"
+    - "dave"
+
+  when:
+    - "4000 years ago"
+    - "yes"
+    - "kys"
+    - "no"
+    - "WHAT are you saying bro"
+    - "yesterday"
+    - "tomorrow"
+    - "maybe today"
+    - "never"
+    - "how would i know"
+    - "idoit"
+    - "whenever dave comes back."
+
+  should:
+    - "no"
+    - "yes"
+    - "kys"
+    - "||kys||"
+    - "WHAT are you saying bro"
+    - "dont ask me"
+    - "pardon?"
+    - "I DONT KNOW MAN LEAVE ME ALONE"
+    - "egg?"
+    - "dave? where are you?"
+
+  why:
+    - "you know why"
+    - "neither of us know why"
+    - "cuz you suck"
+    - "cuz. uh. i forgot"
+    - "WHAT are you saying bro"
+    - "heyyyy........."
+    - "i.... am vlad."
+    - "vlad is stupid btw"
+    - "hi dave"
+
+messageevents:
+  sigwaterch: 1466604455922237761
+  sigwaterrole: 1466604056230498355
+  heavenrole: 1466604174778306632
+  heavench: 1466604507239682099
+  icypeaksch: 1466604491884204196
+  icypeaksrole: 1466604117391704064
+  minneapolisch: 1466604476751155397
+  minneapolisrole: 1466604085498089482
+  houseofvladsch: 1479535745302790274
+  taxch: 1511106533818106058
+  taxrole: 1511106550100656258
+
+misc:
+  achievementch: 1334102844185513996
+  dreamskych: 1495393777706209311
+  dreamskyrole: 1495393544737656862
+  socialcatg: 1478459722771468430
+
+hell:
+  limbo: 1495392095534321715
+  lust: 1495392118212919316
+  gluttony: 1495392139796938823
+  greed: 1495392180137758830
+  wrath: 1495392199020515428
+  heresy: 1495392210546589808
+  violence: 1495392225335578714
+  fraud: 1495392235821207652
+  treachery: 1495392247393288342
+  limborole: 1500900040250491012
+  lustrole: 1500900073754726421
+  gluttonyrole: 1500900092067057734 
+  greedrole: 1500900124421914736 
+  wrathrole: 1500900149713571960 
+  heresyrole: 1500900167035912342
+  violencerole: 1500900184882675752 
+  fraudrole: 1500900210195566714
+  treacheryrole: 1500900232139902996
+
+parthenon:
+  parthenonch: 1500900006352257156
+  parthenonrole: 1500900671665340547
+  keych: 1491902803709530143
+  reward_quid: 100_000
+  reward_xp: 500_000
