@@ -20,6 +20,7 @@ once you have your discord bot token, put it inside the double quotes for TOKEN 
 
 #### 4. set database up
 just download postgresql gang :v:
+
 also put the database url in .env in 'postgresql://user:password@localhost:5432/database' form
 
 #### 5. get your bot admin role id
@@ -41,5 +42,7 @@ to start the bot, run `python main.py`
 ## credits
 
 many thanks to txshiro, the original developer of this version of squidbot vladbot was forked from.
+
 many thanks to omegametor, the author of the original squidbot readme.md
+
 not so many thanks to vlad15032009, the person who gave the name to vladbot.
