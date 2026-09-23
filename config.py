@@ -48,6 +48,7 @@ ICY_PEAKS_ROLE = EVENTS.get("icypeaksrole")
 MINNEAPOLIS_CHANNEL = EVENTS.get("minneapolisch")
 MINNEAPOLIS_ROLE = EVENTS.get("minneapolisrole")
 HOUSEOFVLADS_CHANNEL = EVENTS.get("houseofvladsch")
+HOUSEOFVLADS_ROLE = EVENTS.get("houseofvladsrole")
 TAX_COLLECTOR_CHANNEL = EVENTS.get("taxch")
 TAX_COLLECTOR_ROLE = EVENTS.get("taxrole")
 
